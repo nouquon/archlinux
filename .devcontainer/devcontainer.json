@@ -1,0 +1,9 @@
+{
+  "name": "Arch Linux Dev Container",
+  "image": "ghcr.io/bartventer/devcontainer-images/base-archlinux:latest",
+  "features": {
+    // Add specific features here, e.g., "ghcr.io/bartventer/arch-devcontainer-features/go:latest"
+  },
+  "settings": {},
+  "extensions": []
+}
